@@ -10,7 +10,7 @@ Animeleri ben yüklemedim. Anime Deposu'na emekleri için teşekkür ederim.
 
 Sitenin sahibi bana linkleri Excel dosyası olarak atmıştı. Dosyanın orijinalini aşağıya bırkatığım bağlantıdan indirebilirsiniz.
 
-Anime-Deposu.xls
+[Anime-Deposu.xls](https://github.com/semihV23/AnimeDeposuArsiv/raw/main/dosyalar/Anime-Linkleri.xls)
 
 ## Tek Part Olanlar
 

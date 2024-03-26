@@ -6,6 +6,8 @@ Anime Deposu'nu severek kullanıyordum. anime-deposu.blogspot.com'un kapanması 
 
 Animeleri ben yüklemedim. Anime Deposu'na emekleri için teşekkür ederim.
 
+![308789448_166614976029083_4429336960327664737_n](https://github.com/semihV23/AnimeDeposuArsiv/assets/54319361/599c30da-576a-4e37-8ce6-907cf75bdc8e)
+
 ## Linkler nasıl kullanılır?
 
 Sitenin sahibi bana linkleri Excel dosyası olarak atmıştı. Dosyanın orijinalini aşağıya bırkatığım bağlantıdan indirebilirsiniz.

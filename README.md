@@ -14,6 +14,8 @@ Sitenin sahibi bana linkleri Excel dosyası olarak atmıştı. Dosyanın orijina
 
 ## Arşivler
 
+Animelerin çoğu bu arşivlerde mevcut.
+
 | Anime Arşivleri                                                          |
 | ------------------------------------------------------------------------ |
 | https://drive.google.com/drive/folders/1OMBg4gEthE9xuF5ibrIomJBGS_3DKgaP |

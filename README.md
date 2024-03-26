@@ -10,6 +10,8 @@ Animeleri ben yüklemedim. Anime Deposu'na emekleri için teşekkür ederim.
 
 ## Linkler nasıl kullanılır?
 
+Liste epey uzun olduğu için sayfada arama yapmanızı tavsiye ederim. Masaüstü kullanıcıları için `CTRL+F`, mobil kullanıcılar için `Üç Nokta > Sayfada bul`
+
 Sitenin sahibi bana linkleri Excel dosyası olarak atmıştı. Dosyanın orijinalini aşağıya bırkatığım bağlantıdan indirebilirsiniz.
 
 [Anime-Deposu.xls](https://github.com/semihV23/AnimeDeposuArsiv/raw/main/dosyalar/Anime-Linkleri.xls)

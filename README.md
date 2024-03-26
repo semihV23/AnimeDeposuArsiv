@@ -12,6 +12,13 @@ Sitenin sahibi bana linkleri Excel dosyası olarak atmıştı. Dosyanın orijina
 
 [Anime-Deposu.xls](https://github.com/semihV23/AnimeDeposuArsiv/raw/main/dosyalar/Anime-Linkleri.xls)
 
+## Arşivler
+
+| Anime Arşivleri                                                          |
+| ------------------------------------------------------------------------ |
+| https://drive.google.com/drive/folders/1OMBg4gEthE9xuF5ibrIomJBGS_3DKgaP |
+| https://drive.google.com/drive/folders/12HYgQOEyZ2-6yHM8D7_CwWgjF_f-pCD1 |
+
 ## Tek Part Olanlar
 
 | Anime                                                                          | İndirme Linki                                                                                                                                                                            |
